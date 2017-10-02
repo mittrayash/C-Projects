@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1454295854 source:c:\users\yash\documents\c projects\debugdigitadd\main.c
+	<stdio.h>
+	<stdlib.h>
+

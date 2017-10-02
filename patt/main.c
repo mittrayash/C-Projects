@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int space, n, num, i, j ,k , m=1;
+puts(" Enter n");
+    scanf(" %d", &n);
+    n = num;
+    for (i=1; i<=n; i++){
+
+        for(j=1; j<=num; j++){
+
+            printf("      ");
+
+        }
+
+        for(k=1; k<=i; k++){
+            printf("%d        ", m);
+            m++;
+        }
+
+num--;
+        printf("\n");
+    }
+
+    return 0;
+}

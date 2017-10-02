@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451936801 source:c:\users\yash\documents\c projects\die sum guess game\main.c
+	<stdio.h>
+	<stdlib.h>
+

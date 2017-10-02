@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452007085 source:c:\users\yash\documents\c projects\avg meatballs per day\main.c
+	<stdio.h>
+	<stdlib.h>
+

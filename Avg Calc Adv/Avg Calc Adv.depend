@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451596335 source:c:\users\yash\documents\c projects\avg calc adv\main.c
+	<stdio.h>
+	<stdlib.h>
+

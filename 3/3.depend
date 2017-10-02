@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1451247486 source:c:\users\yash\documents\c projects\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header1.h"
+
+1451161355 c:\users\yash\documents\c projects\3\header1.h
+

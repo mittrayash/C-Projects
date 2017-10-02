@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461865095 source:c:\users\yash\documents\c projects\lower, upper or special\main.c
+	<stdio.h>
+	<stdlib.h>
+

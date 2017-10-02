@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451725158 source:c:\users\yash\documents\c projects\18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

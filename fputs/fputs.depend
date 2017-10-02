@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461870173 source:c:\users\yash\documents\c projects\fputs\main.c
+	<stdio.h>
+	<stdlib.h>
+

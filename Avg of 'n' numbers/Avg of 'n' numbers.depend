@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452195987 source:c:\users\yash\documents\c projects\avg of 'n' numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

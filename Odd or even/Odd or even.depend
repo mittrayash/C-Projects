@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452111574 source:c:\users\yash\documents\c projects\odd or even\main.c
+	<stdio.h>
+	<stdlib.h>
+
